@@ -1,0 +1,1668 @@
+[
+  {
+    "plan_id": "1419432",
+    "canvas_size": [
+      1422,
+      1422
+    ],
+    "num_rooms": 6,
+    "num_walls": 43,
+    "num_holes": 16,
+    "scale_x": 0.720112517580872,
+    "scale_y": 0.720112517580872,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/1419432_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/1419432_floorplan.npy"
+  },
+  {
+    "plan_id": "1540780",
+    "canvas_size": [
+      1206,
+      1206
+    ],
+    "num_rooms": 5,
+    "num_walls": 36,
+    "num_holes": 16,
+    "scale_x": 0.8490878938640133,
+    "scale_y": 0.8490878938640133,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/1540780_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/1540780_floorplan.npy"
+  },
+  {
+    "plan_id": "1570801",
+    "canvas_size": [
+      926,
+      926
+    ],
+    "num_rooms": 6,
+    "num_walls": 36,
+    "num_holes": 16,
+    "scale_x": 1.1058315334773219,
+    "scale_y": 1.1058315334773219,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/1570801_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/1570801_floorplan.npy"
+  },
+  {
+    "plan_id": "1702692",
+    "canvas_size": [
+      1182,
+      1182
+    ],
+    "num_rooms": 6,
+    "num_walls": 52,
+    "num_holes": 15,
+    "scale_x": 0.8663282571912013,
+    "scale_y": 0.8663282571912013,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/1702692_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/1702692_floorplan.npy"
+  },
+  {
+    "plan_id": "1711526",
+    "canvas_size": [
+      1242,
+      1242
+    ],
+    "num_rooms": 6,
+    "num_walls": 27,
+    "num_holes": 6,
+    "scale_x": 0.8244766505636071,
+    "scale_y": 0.8244766505636071,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/1711526_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/1711526_floorplan.npy"
+  },
+  {
+    "plan_id": "1820838",
+    "canvas_size": [
+      1602,
+      1602
+    ],
+    "num_rooms": 11,
+    "num_walls": 64,
+    "num_holes": 17,
+    "scale_x": 0.6392009987515606,
+    "scale_y": 0.6392009987515606,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/1820838_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/1820838_floorplan.npy"
+  },
+  {
+    "plan_id": "1872162",
+    "canvas_size": [
+      1182,
+      1182
+    ],
+    "num_rooms": 6,
+    "num_walls": 52,
+    "num_holes": 15,
+    "scale_x": 0.8663282571912013,
+    "scale_y": 0.8663282571912013,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/1872162_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/1872162_floorplan.npy"
+  },
+  {
+    "plan_id": "2153099",
+    "canvas_size": [
+      1306,
+      1306
+    ],
+    "num_rooms": 7,
+    "num_walls": 53,
+    "num_holes": 16,
+    "scale_x": 0.7840735068912711,
+    "scale_y": 0.7840735068912711,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2153099_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2153099_floorplan.npy"
+  },
+  {
+    "plan_id": "2158503",
+    "canvas_size": [
+      1382,
+      1382
+    ],
+    "num_rooms": 8,
+    "num_walls": 47,
+    "num_holes": 18,
+    "scale_x": 0.7409551374819102,
+    "scale_y": 0.7409551374819102,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2158503_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2158503_floorplan.npy"
+  },
+  {
+    "plan_id": "2177259",
+    "canvas_size": [
+      1112,
+      1112
+    ],
+    "num_rooms": 6,
+    "num_walls": 41,
+    "num_holes": 17,
+    "scale_x": 0.920863309352518,
+    "scale_y": 0.920863309352518,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2177259_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2177259_floorplan.npy"
+  },
+  {
+    "plan_id": "2219402",
+    "canvas_size": [
+      1250,
+      1250
+    ],
+    "num_rooms": 9,
+    "num_walls": 51,
+    "num_holes": 17,
+    "scale_x": 0.8192,
+    "scale_y": 0.8192,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2219402_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2219402_floorplan.npy"
+  },
+  {
+    "plan_id": "2226333",
+    "canvas_size": [
+      2000,
+      2000
+    ],
+    "num_rooms": 12,
+    "num_walls": 46,
+    "num_holes": 31,
+    "scale_x": 0.512,
+    "scale_y": 0.512,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2226333_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2226333_floorplan.npy"
+  },
+  {
+    "plan_id": "2269631",
+    "canvas_size": [
+      1848,
+      1848
+    ],
+    "num_rooms": 12,
+    "num_walls": 95,
+    "num_holes": 33,
+    "scale_x": 0.5541125541125541,
+    "scale_y": 0.5541125541125541,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2269631_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2269631_floorplan.npy"
+  },
+  {
+    "plan_id": "2290734",
+    "canvas_size": [
+      1706,
+      1706
+    ],
+    "num_rooms": 7,
+    "num_walls": 47,
+    "num_holes": 16,
+    "scale_x": 0.6002344665885111,
+    "scale_y": 0.6002344665885111,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2290734_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2290734_floorplan.npy"
+  },
+  {
+    "plan_id": "2313374",
+    "canvas_size": [
+      1354,
+      1354
+    ],
+    "num_rooms": 9,
+    "num_walls": 48,
+    "num_holes": 18,
+    "scale_x": 0.7562776957163959,
+    "scale_y": 0.7562776957163959,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2313374_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2313374_floorplan.npy"
+  },
+  {
+    "plan_id": "2329060",
+    "canvas_size": [
+      1364,
+      1364
+    ],
+    "num_rooms": 6,
+    "num_walls": 32,
+    "num_holes": 12,
+    "scale_x": 0.750733137829912,
+    "scale_y": 0.750733137829912,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2329060_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2329060_floorplan.npy"
+  },
+  {
+    "plan_id": "2339563",
+    "canvas_size": [
+      1202,
+      1202
+    ],
+    "num_rooms": 10,
+    "num_walls": 54,
+    "num_holes": 20,
+    "scale_x": 0.8519134775374376,
+    "scale_y": 0.8519134775374376,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2339563_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2339563_floorplan.npy"
+  },
+  {
+    "plan_id": "2460580",
+    "canvas_size": [
+      1278,
+      1278
+    ],
+    "num_rooms": 10,
+    "num_walls": 52,
+    "num_holes": 17,
+    "scale_x": 0.8012519561815337,
+    "scale_y": 0.8012519561815337,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2460580_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2460580_floorplan.npy"
+  },
+  {
+    "plan_id": "2473337",
+    "canvas_size": [
+      1492,
+      1492
+    ],
+    "num_rooms": 10,
+    "num_walls": 51,
+    "num_holes": 23,
+    "scale_x": 0.6863270777479893,
+    "scale_y": 0.6863270777479893,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2473337_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2473337_floorplan.npy"
+  },
+  {
+    "plan_id": "2655472",
+    "canvas_size": [
+      1252,
+      1252
+    ],
+    "num_rooms": 9,
+    "num_walls": 39,
+    "num_holes": 17,
+    "scale_x": 0.8178913738019169,
+    "scale_y": 0.8178913738019169,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2655472_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2655472_floorplan.npy"
+  },
+  {
+    "plan_id": "2661844",
+    "canvas_size": [
+      1704,
+      1704
+    ],
+    "num_rooms": 13,
+    "num_walls": 77,
+    "num_holes": 23,
+    "scale_x": 0.6009389671361502,
+    "scale_y": 0.6009389671361502,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2661844_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2661844_floorplan.npy"
+  },
+  {
+    "plan_id": "2667419",
+    "canvas_size": [
+      1532,
+      1532
+    ],
+    "num_rooms": 13,
+    "num_walls": 67,
+    "num_holes": 18,
+    "scale_x": 0.6684073107049608,
+    "scale_y": 0.6684073107049608,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2667419_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2667419_floorplan.npy"
+  },
+  {
+    "plan_id": "2669661",
+    "canvas_size": [
+      1002,
+      1002
+    ],
+    "num_rooms": 5,
+    "num_walls": 24,
+    "num_holes": 12,
+    "scale_x": 1.0219560878243512,
+    "scale_y": 1.0219560878243512,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2669661_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2669661_floorplan.npy"
+  },
+  {
+    "plan_id": "2672089",
+    "canvas_size": [
+      1268,
+      1268
+    ],
+    "num_rooms": 11,
+    "num_walls": 60,
+    "num_holes": 18,
+    "scale_x": 0.807570977917981,
+    "scale_y": 0.807570977917981,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2672089_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2672089_floorplan.npy"
+  },
+  {
+    "plan_id": "2678858",
+    "canvas_size": [
+      1430,
+      1430
+    ],
+    "num_rooms": 12,
+    "num_walls": 55,
+    "num_holes": 18,
+    "scale_x": 0.7160839160839161,
+    "scale_y": 0.7160839160839161,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2678858_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2678858_floorplan.npy"
+  },
+  {
+    "plan_id": "2683605",
+    "canvas_size": [
+      1142,
+      1142
+    ],
+    "num_rooms": 8,
+    "num_walls": 38,
+    "num_holes": 17,
+    "scale_x": 0.8966725043782837,
+    "scale_y": 0.8966725043782837,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2683605_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2683605_floorplan.npy"
+  },
+  {
+    "plan_id": "2698276",
+    "canvas_size": [
+      1298,
+      1298
+    ],
+    "num_rooms": 9,
+    "num_walls": 57,
+    "num_holes": 25,
+    "scale_x": 0.7889060092449923,
+    "scale_y": 0.7889060092449923,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2698276_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2698276_floorplan.npy"
+  },
+  {
+    "plan_id": "2722615",
+    "canvas_size": [
+      1130,
+      1130
+    ],
+    "num_rooms": 7,
+    "num_walls": 38,
+    "num_holes": 15,
+    "scale_x": 0.9061946902654867,
+    "scale_y": 0.9061946902654867,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2722615_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2722615_floorplan.npy"
+  },
+  {
+    "plan_id": "2722619",
+    "canvas_size": [
+      1092,
+      1092
+    ],
+    "num_rooms": 8,
+    "num_walls": 47,
+    "num_holes": 17,
+    "scale_x": 0.9377289377289377,
+    "scale_y": 0.9377289377289377,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2722619_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2722619_floorplan.npy"
+  },
+  {
+    "plan_id": "2722621",
+    "canvas_size": [
+      1232,
+      1232
+    ],
+    "num_rooms": 7,
+    "num_walls": 31,
+    "num_holes": 13,
+    "scale_x": 0.8311688311688312,
+    "scale_y": 0.8311688311688312,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2722621_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2722621_floorplan.npy"
+  },
+  {
+    "plan_id": "2722624",
+    "canvas_size": [
+      1260,
+      1260
+    ],
+    "num_rooms": 9,
+    "num_walls": 53,
+    "num_holes": 22,
+    "scale_x": 0.8126984126984127,
+    "scale_y": 0.8126984126984127,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2722624_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2722624_floorplan.npy"
+  },
+  {
+    "plan_id": "2722644",
+    "canvas_size": [
+      1398,
+      1398
+    ],
+    "num_rooms": 10,
+    "num_walls": 53,
+    "num_holes": 21,
+    "scale_x": 0.7324749642346209,
+    "scale_y": 0.7324749642346209,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2722644_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2722644_floorplan.npy"
+  },
+  {
+    "plan_id": "2722658",
+    "canvas_size": [
+      1106,
+      1106
+    ],
+    "num_rooms": 9,
+    "num_walls": 43,
+    "num_holes": 16,
+    "scale_x": 0.9258589511754068,
+    "scale_y": 0.9258589511754068,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2722658_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2722658_floorplan.npy"
+  },
+  {
+    "plan_id": "2722675",
+    "canvas_size": [
+      1114,
+      1114
+    ],
+    "num_rooms": 6,
+    "num_walls": 40,
+    "num_holes": 15,
+    "scale_x": 0.9192100538599641,
+    "scale_y": 0.9192100538599641,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2722675_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2722675_floorplan.npy"
+  },
+  {
+    "plan_id": "2722677",
+    "canvas_size": [
+      1254,
+      1254
+    ],
+    "num_rooms": 9,
+    "num_walls": 45,
+    "num_holes": 18,
+    "scale_x": 0.8165869218500797,
+    "scale_y": 0.8165869218500797,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2722677_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2722677_floorplan.npy"
+  },
+  {
+    "plan_id": "2736087",
+    "canvas_size": [
+      2288,
+      2288
+    ],
+    "num_rooms": 9,
+    "num_walls": 50,
+    "num_holes": 20,
+    "scale_x": 0.44755244755244755,
+    "scale_y": 0.44755244755244755,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2736087_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2736087_floorplan.npy"
+  },
+  {
+    "plan_id": "2748313",
+    "canvas_size": [
+      1200,
+      1200
+    ],
+    "num_rooms": 7,
+    "num_walls": 46,
+    "num_holes": 15,
+    "scale_x": 0.8533333333333334,
+    "scale_y": 0.8533333333333334,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2748313_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2748313_floorplan.npy"
+  },
+  {
+    "plan_id": "2748319",
+    "canvas_size": [
+      1284,
+      1284
+    ],
+    "num_rooms": 9,
+    "num_walls": 41,
+    "num_holes": 17,
+    "scale_x": 0.7975077881619937,
+    "scale_y": 0.7975077881619937,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2748319_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2748319_floorplan.npy"
+  },
+  {
+    "plan_id": "2748324",
+    "canvas_size": [
+      1054,
+      1054
+    ],
+    "num_rooms": 8,
+    "num_walls": 45,
+    "num_holes": 16,
+    "scale_x": 0.9715370018975332,
+    "scale_y": 0.9715370018975332,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2748324_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2748324_floorplan.npy"
+  },
+  {
+    "plan_id": "2748655",
+    "canvas_size": [
+      1650,
+      1650
+    ],
+    "num_rooms": 11,
+    "num_walls": 66,
+    "num_holes": 22,
+    "scale_x": 0.6206060606060606,
+    "scale_y": 0.6206060606060606,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2748655_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2748655_floorplan.npy"
+  },
+  {
+    "plan_id": "2767140",
+    "canvas_size": [
+      1136,
+      1136
+    ],
+    "num_rooms": 6,
+    "num_walls": 41,
+    "num_holes": 13,
+    "scale_x": 0.9014084507042254,
+    "scale_y": 0.9014084507042254,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2767140_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2767140_floorplan.npy"
+  },
+  {
+    "plan_id": "2774751",
+    "canvas_size": [
+      1096,
+      1096
+    ],
+    "num_rooms": 6,
+    "num_walls": 37,
+    "num_holes": 12,
+    "scale_x": 0.9343065693430657,
+    "scale_y": 0.9343065693430657,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2774751_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2774751_floorplan.npy"
+  },
+  {
+    "plan_id": "2775991",
+    "canvas_size": [
+      1058,
+      1058
+    ],
+    "num_rooms": 7,
+    "num_walls": 42,
+    "num_holes": 14,
+    "scale_x": 0.9678638941398866,
+    "scale_y": 0.9678638941398866,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2775991_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2775991_floorplan.npy"
+  },
+  {
+    "plan_id": "2798045",
+    "canvas_size": [
+      1686,
+      1686
+    ],
+    "num_rooms": 9,
+    "num_walls": 67,
+    "num_holes": 24,
+    "scale_x": 0.6073546856465006,
+    "scale_y": 0.6073546856465006,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2798045_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2798045_floorplan.npy"
+  },
+  {
+    "plan_id": "2798185",
+    "canvas_size": [
+      988,
+      988
+    ],
+    "num_rooms": 5,
+    "num_walls": 20,
+    "num_holes": 8,
+    "scale_x": 1.0364372469635628,
+    "scale_y": 1.0364372469635628,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2798185_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2798185_floorplan.npy"
+  },
+  {
+    "plan_id": "2806719",
+    "canvas_size": [
+      1440,
+      1440
+    ],
+    "num_rooms": 12,
+    "num_walls": 58,
+    "num_holes": 17,
+    "scale_x": 0.7111111111111111,
+    "scale_y": 0.7111111111111111,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2806719_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2806719_floorplan.npy"
+  },
+  {
+    "plan_id": "2815875",
+    "canvas_size": [
+      1328,
+      1328
+    ],
+    "num_rooms": 8,
+    "num_walls": 43,
+    "num_holes": 19,
+    "scale_x": 0.7710843373493976,
+    "scale_y": 0.7710843373493976,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2815875_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2815875_floorplan.npy"
+  },
+  {
+    "plan_id": "2894241",
+    "canvas_size": [
+      1608,
+      1608
+    ],
+    "num_rooms": 10,
+    "num_walls": 63,
+    "num_holes": 20,
+    "scale_x": 0.6368159203980099,
+    "scale_y": 0.6368159203980099,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2894241_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2894241_floorplan.npy"
+  },
+  {
+    "plan_id": "2894243",
+    "canvas_size": [
+      1022,
+      1022
+    ],
+    "num_rooms": 7,
+    "num_walls": 35,
+    "num_holes": 14,
+    "scale_x": 1.0019569471624266,
+    "scale_y": 1.0019569471624266,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2894243_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2894243_floorplan.npy"
+  },
+  {
+    "plan_id": "2894247",
+    "canvas_size": [
+      1344,
+      1344
+    ],
+    "num_rooms": 10,
+    "num_walls": 62,
+    "num_holes": 19,
+    "scale_x": 0.7619047619047619,
+    "scale_y": 0.7619047619047619,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2894247_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2894247_floorplan.npy"
+  },
+  {
+    "plan_id": "2910387",
+    "canvas_size": [
+      1154,
+      1154
+    ],
+    "num_rooms": 7,
+    "num_walls": 42,
+    "num_holes": 16,
+    "scale_x": 0.8873483535528596,
+    "scale_y": 0.8873483535528596,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2910387_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2910387_floorplan.npy"
+  },
+  {
+    "plan_id": "2910388",
+    "canvas_size": [
+      1424,
+      1424
+    ],
+    "num_rooms": 8,
+    "num_walls": 34,
+    "num_holes": 17,
+    "scale_x": 0.7191011235955056,
+    "scale_y": 0.7191011235955056,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2910388_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2910388_floorplan.npy"
+  },
+  {
+    "plan_id": "2910393",
+    "canvas_size": [
+      1220,
+      1220
+    ],
+    "num_rooms": 8,
+    "num_walls": 31,
+    "num_holes": 14,
+    "scale_x": 0.839344262295082,
+    "scale_y": 0.839344262295082,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2910393_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2910393_floorplan.npy"
+  },
+  {
+    "plan_id": "2939150",
+    "canvas_size": [
+      1460,
+      1460
+    ],
+    "num_rooms": 9,
+    "num_walls": 86,
+    "num_holes": 35,
+    "scale_x": 0.7013698630136986,
+    "scale_y": 0.7013698630136986,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2939150_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2939150_floorplan.npy"
+  },
+  {
+    "plan_id": "2961887",
+    "canvas_size": [
+      1230,
+      1230
+    ],
+    "num_rooms": 8,
+    "num_walls": 48,
+    "num_holes": 15,
+    "scale_x": 0.832520325203252,
+    "scale_y": 0.832520325203252,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2961887_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2961887_floorplan.npy"
+  },
+  {
+    "plan_id": "2962054",
+    "canvas_size": [
+      1322,
+      1322
+    ],
+    "num_rooms": 8,
+    "num_walls": 37,
+    "num_holes": 15,
+    "scale_x": 0.7745839636913767,
+    "scale_y": 0.7745839636913767,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2962054_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2962054_floorplan.npy"
+  },
+  {
+    "plan_id": "2962627",
+    "canvas_size": [
+      1628,
+      1628
+    ],
+    "num_rooms": 10,
+    "num_walls": 35,
+    "num_holes": 18,
+    "scale_x": 0.628992628992629,
+    "scale_y": 0.628992628992629,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2962627_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2962627_floorplan.npy"
+  },
+  {
+    "plan_id": "2962662",
+    "canvas_size": [
+      1220,
+      1220
+    ],
+    "num_rooms": 9,
+    "num_walls": 43,
+    "num_holes": 17,
+    "scale_x": 0.839344262295082,
+    "scale_y": 0.839344262295082,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2962662_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2962662_floorplan.npy"
+  },
+  {
+    "plan_id": "2962763",
+    "canvas_size": [
+      1298,
+      1298
+    ],
+    "num_rooms": 9,
+    "num_walls": 57,
+    "num_holes": 25,
+    "scale_x": 0.7889060092449923,
+    "scale_y": 0.7889060092449923,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2962763_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2962763_floorplan.npy"
+  },
+  {
+    "plan_id": "2962859",
+    "canvas_size": [
+      1260,
+      1260
+    ],
+    "num_rooms": 9,
+    "num_walls": 53,
+    "num_holes": 22,
+    "scale_x": 0.8126984126984127,
+    "scale_y": 0.8126984126984127,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2962859_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2962859_floorplan.npy"
+  },
+  {
+    "plan_id": "2962982",
+    "canvas_size": [
+      1130,
+      1130
+    ],
+    "num_rooms": 7,
+    "num_walls": 38,
+    "num_holes": 15,
+    "scale_x": 0.9061946902654867,
+    "scale_y": 0.9061946902654867,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2962982_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2962982_floorplan.npy"
+  },
+  {
+    "plan_id": "2963120",
+    "canvas_size": [
+      1304,
+      1304
+    ],
+    "num_rooms": 9,
+    "num_walls": 48,
+    "num_holes": 18,
+    "scale_x": 0.7852760736196319,
+    "scale_y": 0.7852760736196319,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2963120_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2963120_floorplan.npy"
+  },
+  {
+    "plan_id": "2963196",
+    "canvas_size": [
+      1544,
+      1544
+    ],
+    "num_rooms": 8,
+    "num_walls": 36,
+    "num_holes": 20,
+    "scale_x": 0.6632124352331606,
+    "scale_y": 0.6632124352331606,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2963196_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2963196_floorplan.npy"
+  },
+  {
+    "plan_id": "2995482",
+    "canvas_size": [
+      812,
+      812
+    ],
+    "num_rooms": 5,
+    "num_walls": 27,
+    "num_holes": 10,
+    "scale_x": 1.2610837438423645,
+    "scale_y": 1.2610837438423645,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/2995482_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/2995482_floorplan.npy"
+  },
+  {
+    "plan_id": "3002864",
+    "canvas_size": [
+      840,
+      840
+    ],
+    "num_rooms": 5,
+    "num_walls": 32,
+    "num_holes": 10,
+    "scale_x": 1.2190476190476192,
+    "scale_y": 1.2190476190476192,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3002864_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3002864_floorplan.npy"
+  },
+  {
+    "plan_id": "3004251",
+    "canvas_size": [
+      1688,
+      1688
+    ],
+    "num_rooms": 7,
+    "num_walls": 46,
+    "num_holes": 15,
+    "scale_x": 0.6066350710900474,
+    "scale_y": 0.6066350710900474,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3004251_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3004251_floorplan.npy"
+  },
+  {
+    "plan_id": "3010847",
+    "canvas_size": [
+      864,
+      864
+    ],
+    "num_rooms": 8,
+    "num_walls": 43,
+    "num_holes": 11,
+    "scale_x": 1.1851851851851851,
+    "scale_y": 1.1851851851851851,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3010847_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3010847_floorplan.npy"
+  },
+  {
+    "plan_id": "3016111",
+    "canvas_size": [
+      1260,
+      1260
+    ],
+    "num_rooms": 8,
+    "num_walls": 68,
+    "num_holes": 23,
+    "scale_x": 0.8126984126984127,
+    "scale_y": 0.8126984126984127,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3016111_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3016111_floorplan.npy"
+  },
+  {
+    "plan_id": "3021221",
+    "canvas_size": [
+      2288,
+      2288
+    ],
+    "num_rooms": 9,
+    "num_walls": 50,
+    "num_holes": 20,
+    "scale_x": 0.44755244755244755,
+    "scale_y": 0.44755244755244755,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3021221_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3021221_floorplan.npy"
+  },
+  {
+    "plan_id": "3022191",
+    "canvas_size": [
+      1608,
+      1608
+    ],
+    "num_rooms": 10,
+    "num_walls": 63,
+    "num_holes": 20,
+    "scale_x": 0.6368159203980099,
+    "scale_y": 0.6368159203980099,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3022191_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3022191_floorplan.npy"
+  },
+  {
+    "plan_id": "3022236",
+    "canvas_size": [
+      1490,
+      1490
+    ],
+    "num_rooms": 4,
+    "num_walls": 51,
+    "num_holes": 14,
+    "scale_x": 0.687248322147651,
+    "scale_y": 0.687248322147651,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3022236_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3022236_floorplan.npy"
+  },
+  {
+    "plan_id": "3033500",
+    "canvas_size": [
+      1264,
+      1264
+    ],
+    "num_rooms": 11,
+    "num_walls": 74,
+    "num_holes": 21,
+    "scale_x": 0.810126582278481,
+    "scale_y": 0.810126582278481,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3033500_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3033500_floorplan.npy"
+  },
+  {
+    "plan_id": "3044927",
+    "canvas_size": [
+      916,
+      916
+    ],
+    "num_rooms": 8,
+    "num_walls": 47,
+    "num_holes": 14,
+    "scale_x": 1.1179039301310043,
+    "scale_y": 1.1179039301310043,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3044927_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3044927_floorplan.npy"
+  },
+  {
+    "plan_id": "3045259",
+    "canvas_size": [
+      2006,
+      2006
+    ],
+    "num_rooms": 8,
+    "num_walls": 49,
+    "num_holes": 25,
+    "scale_x": 0.5104685942173479,
+    "scale_y": 0.5104685942173479,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3045259_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3045259_floorplan.npy"
+  },
+  {
+    "plan_id": "3073068",
+    "canvas_size": [
+      1708,
+      1708
+    ],
+    "num_rooms": 14,
+    "num_walls": 76,
+    "num_holes": 23,
+    "scale_x": 0.5995316159250585,
+    "scale_y": 0.5995316159250585,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3073068_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3073068_floorplan.npy"
+  },
+  {
+    "plan_id": "3123622",
+    "canvas_size": [
+      2476,
+      2476
+    ],
+    "num_rooms": 7,
+    "num_walls": 41,
+    "num_holes": 30,
+    "scale_x": 0.4135702746365105,
+    "scale_y": 0.4135702746365105,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3123622_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3123622_floorplan.npy"
+  },
+  {
+    "plan_id": "3146947",
+    "canvas_size": [
+      1716,
+      1716
+    ],
+    "num_rooms": 12,
+    "num_walls": 79,
+    "num_holes": 27,
+    "scale_x": 0.5967365967365967,
+    "scale_y": 0.5967365967365967,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3146947_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3146947_floorplan.npy"
+  },
+  {
+    "plan_id": "3148547",
+    "canvas_size": [
+      1936,
+      1936
+    ],
+    "num_rooms": 6,
+    "num_walls": 41,
+    "num_holes": 12,
+    "scale_x": 0.5289256198347108,
+    "scale_y": 0.5289256198347108,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3148547_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3148547_floorplan.npy"
+  },
+  {
+    "plan_id": "3156654",
+    "canvas_size": [
+      1708,
+      1708
+    ],
+    "num_rooms": 14,
+    "num_walls": 76,
+    "num_holes": 23,
+    "scale_x": 0.5995316159250585,
+    "scale_y": 0.5995316159250585,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3156654_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3156654_floorplan.npy"
+  },
+  {
+    "plan_id": "3164955",
+    "canvas_size": [
+      1262,
+      1262
+    ],
+    "num_rooms": 11,
+    "num_walls": 64,
+    "num_holes": 17,
+    "scale_x": 0.8114104595879557,
+    "scale_y": 0.8114104595879557,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3164955_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3164955_floorplan.npy"
+  },
+  {
+    "plan_id": "3179195",
+    "canvas_size": [
+      1416,
+      1416
+    ],
+    "num_rooms": 11,
+    "num_walls": 60,
+    "num_holes": 20,
+    "scale_x": 0.7231638418079096,
+    "scale_y": 0.7231638418079096,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3179195_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3179195_floorplan.npy"
+  },
+  {
+    "plan_id": "3237679",
+    "canvas_size": [
+      1720,
+      1720
+    ],
+    "num_rooms": 9,
+    "num_walls": 95,
+    "num_holes": 19,
+    "scale_x": 0.5953488372093023,
+    "scale_y": 0.5953488372093023,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3237679_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3237679_floorplan.npy"
+  },
+  {
+    "plan_id": "3259047",
+    "canvas_size": [
+      1510,
+      1510
+    ],
+    "num_rooms": 12,
+    "num_walls": 50,
+    "num_holes": 23,
+    "scale_x": 0.6781456953642384,
+    "scale_y": 0.6781456953642384,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3259047_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3259047_floorplan.npy"
+  },
+  {
+    "plan_id": "3707839",
+    "canvas_size": [
+      1196,
+      1196
+    ],
+    "num_rooms": 9,
+    "num_walls": 55,
+    "num_holes": 15,
+    "scale_x": 0.8561872909698997,
+    "scale_y": 0.8561872909698997,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3707839_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3707839_floorplan.npy"
+  },
+  {
+    "plan_id": "3801471",
+    "canvas_size": [
+      1264,
+      1264
+    ],
+    "num_rooms": 8,
+    "num_walls": 45,
+    "num_holes": 14,
+    "scale_x": 0.810126582278481,
+    "scale_y": 0.810126582278481,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3801471_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3801471_floorplan.npy"
+  },
+  {
+    "plan_id": "3977039",
+    "canvas_size": [
+      1242,
+      1242
+    ],
+    "num_rooms": 6,
+    "num_walls": 63,
+    "num_holes": 17,
+    "scale_x": 0.8244766505636071,
+    "scale_y": 0.8244766505636071,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/3977039_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/3977039_floorplan.npy"
+  },
+  {
+    "plan_id": "4090210",
+    "canvas_size": [
+      1482,
+      1482
+    ],
+    "num_rooms": 8,
+    "num_walls": 44,
+    "num_holes": 14,
+    "scale_x": 0.6909581646423751,
+    "scale_y": 0.6909581646423751,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4090210_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4090210_floorplan.npy"
+  },
+  {
+    "plan_id": "4111984",
+    "canvas_size": [
+      2148,
+      2148
+    ],
+    "num_rooms": 21,
+    "num_walls": 91,
+    "num_holes": 24,
+    "scale_x": 0.4767225325884544,
+    "scale_y": 0.4767225325884544,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4111984_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4111984_floorplan.npy"
+  },
+  {
+    "plan_id": "4123439",
+    "canvas_size": [
+      1702,
+      1702
+    ],
+    "num_rooms": 9,
+    "num_walls": 58,
+    "num_holes": 19,
+    "scale_x": 0.6016451233842538,
+    "scale_y": 0.6016451233842538,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4123439_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4123439_floorplan.npy"
+  },
+  {
+    "plan_id": "4129959",
+    "canvas_size": [
+      1324,
+      1324
+    ],
+    "num_rooms": 8,
+    "num_walls": 42,
+    "num_holes": 14,
+    "scale_x": 0.7734138972809668,
+    "scale_y": 0.7734138972809668,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4129959_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4129959_floorplan.npy"
+  },
+  {
+    "plan_id": "4142540",
+    "canvas_size": [
+      1070,
+      1070
+    ],
+    "num_rooms": 7,
+    "num_walls": 39,
+    "num_holes": 16,
+    "scale_x": 0.9570093457943926,
+    "scale_y": 0.9570093457943926,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4142540_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4142540_floorplan.npy"
+  },
+  {
+    "plan_id": "4207294",
+    "canvas_size": [
+      1250,
+      1250
+    ],
+    "num_rooms": 9,
+    "num_walls": 55,
+    "num_holes": 17,
+    "scale_x": 0.8192,
+    "scale_y": 0.8192,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4207294_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4207294_floorplan.npy"
+  },
+  {
+    "plan_id": "4207404",
+    "canvas_size": [
+      1042,
+      1042
+    ],
+    "num_rooms": 8,
+    "num_walls": 38,
+    "num_holes": 15,
+    "scale_x": 0.982725527831094,
+    "scale_y": 0.982725527831094,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4207404_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4207404_floorplan.npy"
+  },
+  {
+    "plan_id": "4232962",
+    "canvas_size": [
+      1134,
+      1134
+    ],
+    "num_rooms": 11,
+    "num_walls": 59,
+    "num_holes": 18,
+    "scale_x": 0.9029982363315696,
+    "scale_y": 0.9029982363315696,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4232962_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4232962_floorplan.npy"
+  },
+  {
+    "plan_id": "4295142",
+    "canvas_size": [
+      996,
+      996
+    ],
+    "num_rooms": 6,
+    "num_walls": 36,
+    "num_holes": 14,
+    "scale_x": 1.0281124497991967,
+    "scale_y": 1.0281124497991967,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4295142_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4295142_floorplan.npy"
+  },
+  {
+    "plan_id": "4358876",
+    "canvas_size": [
+      1076,
+      1076
+    ],
+    "num_rooms": 9,
+    "num_walls": 47,
+    "num_holes": 13,
+    "scale_x": 0.9516728624535316,
+    "scale_y": 0.9516728624535316,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4358876_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4358876_floorplan.npy"
+  },
+  {
+    "plan_id": "4461827",
+    "canvas_size": [
+      1418,
+      1418
+    ],
+    "num_rooms": 8,
+    "num_walls": 38,
+    "num_holes": 15,
+    "scale_x": 0.7221438645980254,
+    "scale_y": 0.7221438645980254,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4461827_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4461827_floorplan.npy"
+  },
+  {
+    "plan_id": "4485176",
+    "canvas_size": [
+      942,
+      942
+    ],
+    "num_rooms": 2,
+    "num_walls": 22,
+    "num_holes": 3,
+    "scale_x": 1.0870488322717622,
+    "scale_y": 1.0870488322717622,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4485176_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4485176_floorplan.npy"
+  },
+  {
+    "plan_id": "4523666",
+    "canvas_size": [
+      888,
+      888
+    ],
+    "num_rooms": 5,
+    "num_walls": 29,
+    "num_holes": 9,
+    "scale_x": 1.1531531531531531,
+    "scale_y": 1.1531531531531531,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4523666_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4523666_floorplan.npy"
+  },
+  {
+    "plan_id": "4527578",
+    "canvas_size": [
+      2060,
+      2060
+    ],
+    "num_rooms": 12,
+    "num_walls": 60,
+    "num_holes": 29,
+    "scale_x": 0.4970873786407767,
+    "scale_y": 0.4970873786407767,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4527578_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4527578_floorplan.npy"
+  },
+  {
+    "plan_id": "4578658",
+    "canvas_size": [
+      1370,
+      1370
+    ],
+    "num_rooms": 8,
+    "num_walls": 73,
+    "num_holes": 19,
+    "scale_x": 0.7474452554744525,
+    "scale_y": 0.7474452554744525,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4578658_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4578658_floorplan.npy"
+  },
+  {
+    "plan_id": "4632775",
+    "canvas_size": [
+      1062,
+      1062
+    ],
+    "num_rooms": 7,
+    "num_walls": 43,
+    "num_holes": 14,
+    "scale_x": 0.9642184557438794,
+    "scale_y": 0.9642184557438794,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4632775_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4632775_floorplan.npy"
+  },
+  {
+    "plan_id": "4638505",
+    "canvas_size": [
+      1126,
+      1126
+    ],
+    "num_rooms": 10,
+    "num_walls": 49,
+    "num_holes": 17,
+    "scale_x": 0.9094138543516874,
+    "scale_y": 0.9094138543516874,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4638505_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4638505_floorplan.npy"
+  },
+  {
+    "plan_id": "4646234",
+    "canvas_size": [
+      1622,
+      1622
+    ],
+    "num_rooms": 14,
+    "num_walls": 78,
+    "num_holes": 20,
+    "scale_x": 0.6313193588162762,
+    "scale_y": 0.6313193588162762,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4646234_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4646234_floorplan.npy"
+  },
+  {
+    "plan_id": "4654871",
+    "canvas_size": [
+      950,
+      950
+    ],
+    "num_rooms": 9,
+    "num_walls": 37,
+    "num_holes": 14,
+    "scale_x": 1.0778947368421052,
+    "scale_y": 1.0778947368421052,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4654871_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4654871_floorplan.npy"
+  },
+  {
+    "plan_id": "4655690",
+    "canvas_size": [
+      906,
+      906
+    ],
+    "num_rooms": 7,
+    "num_walls": 45,
+    "num_holes": 9,
+    "scale_x": 1.130242825607064,
+    "scale_y": 1.130242825607064,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4655690_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4655690_floorplan.npy"
+  },
+  {
+    "plan_id": "4667382",
+    "canvas_size": [
+      1154,
+      1154
+    ],
+    "num_rooms": 6,
+    "num_walls": 48,
+    "num_holes": 20,
+    "scale_x": 0.8873483535528596,
+    "scale_y": 0.8873483535528596,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4667382_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4667382_floorplan.npy"
+  },
+  {
+    "plan_id": "4670418",
+    "canvas_size": [
+      1556,
+      1556
+    ],
+    "num_rooms": 8,
+    "num_walls": 59,
+    "num_holes": 26,
+    "scale_x": 0.6580976863753213,
+    "scale_y": 0.6580976863753213,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4670418_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4670418_floorplan.npy"
+  },
+  {
+    "plan_id": "4675170",
+    "canvas_size": [
+      1534,
+      1534
+    ],
+    "num_rooms": 11,
+    "num_walls": 58,
+    "num_holes": 24,
+    "scale_x": 0.6675358539765319,
+    "scale_y": 0.6675358539765319,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4675170_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4675170_floorplan.npy"
+  },
+  {
+    "plan_id": "4685715",
+    "canvas_size": [
+      1206,
+      1206
+    ],
+    "num_rooms": 8,
+    "num_walls": 38,
+    "num_holes": 15,
+    "scale_x": 0.8490878938640133,
+    "scale_y": 0.8490878938640133,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4685715_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4685715_floorplan.npy"
+  },
+  {
+    "plan_id": "4729472",
+    "canvas_size": [
+      1196,
+      1196
+    ],
+    "num_rooms": 10,
+    "num_walls": 74,
+    "num_holes": 22,
+    "scale_x": 0.8561872909698997,
+    "scale_y": 0.8561872909698997,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4729472_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4729472_floorplan.npy"
+  },
+  {
+    "plan_id": "4739949",
+    "canvas_size": [
+      974,
+      974
+    ],
+    "num_rooms": 8,
+    "num_walls": 54,
+    "num_holes": 20,
+    "scale_x": 1.051334702258727,
+    "scale_y": 1.051334702258727,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4739949_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4739949_floorplan.npy"
+  },
+  {
+    "plan_id": "4751543",
+    "canvas_size": [
+      958,
+      958
+    ],
+    "num_rooms": 5,
+    "num_walls": 30,
+    "num_holes": 7,
+    "scale_x": 1.068893528183716,
+    "scale_y": 1.068893528183716,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4751543_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4751543_floorplan.npy"
+  },
+  {
+    "plan_id": "4773472",
+    "canvas_size": [
+      984,
+      984
+    ],
+    "num_rooms": 3,
+    "num_walls": 17,
+    "num_holes": 8,
+    "scale_x": 1.0406504065040652,
+    "scale_y": 1.0406504065040652,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4773472_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4773472_floorplan.npy"
+  },
+  {
+    "plan_id": "4773501",
+    "canvas_size": [
+      1006,
+      1006
+    ],
+    "num_rooms": 4,
+    "num_walls": 21,
+    "num_holes": 6,
+    "scale_x": 1.0178926441351888,
+    "scale_y": 1.0178926441351888,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4773501_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4773501_floorplan.npy"
+  },
+  {
+    "plan_id": "4773513",
+    "canvas_size": [
+      1396,
+      1396
+    ],
+    "num_rooms": 6,
+    "num_walls": 26,
+    "num_holes": 12,
+    "scale_x": 0.7335243553008596,
+    "scale_y": 0.7335243553008596,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4773513_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4773513_floorplan.npy"
+  },
+  {
+    "plan_id": "4773532",
+    "canvas_size": [
+      1052,
+      1052
+    ],
+    "num_rooms": 7,
+    "num_walls": 42,
+    "num_holes": 13,
+    "scale_x": 0.973384030418251,
+    "scale_y": 0.973384030418251,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4773532_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4773532_floorplan.npy"
+  },
+  {
+    "plan_id": "4773555",
+    "canvas_size": [
+      1100,
+      1100
+    ],
+    "num_rooms": 6,
+    "num_walls": 27,
+    "num_holes": 16,
+    "scale_x": 0.9309090909090909,
+    "scale_y": 0.9309090909090909,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4773555_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4773555_floorplan.npy"
+  },
+  {
+    "plan_id": "4773647",
+    "canvas_size": [
+      1322,
+      1322
+    ],
+    "num_rooms": 6,
+    "num_walls": 45,
+    "num_holes": 18,
+    "scale_x": 0.7745839636913767,
+    "scale_y": 0.7745839636913767,
+    "output_png": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_png/4773647_floorplan.png",
+    "output_npy": "/share/home/202230550120/diffusers/scripts_custom/full_floorplans_no_furniture/floor_plans_npy/4773647_floorplan.npy"
+  }
+]
