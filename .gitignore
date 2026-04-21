@@ -1,5 +1,5 @@
 /data
-/dataset
+# /dataset
 /models
 /scripts
 /diffusers
@@ -17,6 +17,9 @@ evaluation_results/
 
 *.out
 examples/qwen_image/model_training/lora/土巴兔华工室内装修设计项目.xlsx
+dataset/demand1/output_2026.3.27/*.npy
+dataset/demand1/output_2026.3.27_nolength/*.npy
+
 
 
 
