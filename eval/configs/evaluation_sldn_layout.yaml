@@ -1,0 +1,195 @@
+# ============================================
+# SLDN Evaluation Configuration
+# ============================================
+# 主要作用：评估生成的 2D 语义布局的质量
+
+# 【1. 输出目录】
+output_dir: inference_output/sldn_layout_eval
+# 评估结果保存的目录，会自动创建子目录 renderings/ 用于可视化
+
+# ============================================
+# 【2. 真值数据（Ground Truth）配置】
+# ============================================
+
+gt_data_dir: datasets/_tmp_parse_floorplan_map_full
+# GT NPY 文件所在的目录（绝对路径或相对路径）
+# 应该包含 chinese_train_1024x1024.npy 和 chinese_test_1024x1024.npy
+
+gt_template: chinese_{split}_128x128.npy
+# GT 文件名模板，{split} 会替换为 split 值
+# 例如：split=test 时 → chinese_test_128x128.npy
+# 例如：split=train 时 → chinese_train_128x128.npy
+# ⚠️ 注意大小：如果是 1024x1024 则改为 chinese_{split}_1024x1024.npy
+
+split: test
+# 评估的数据集划分：train / val / test
+# 对于我们的场景通常是 test
+
+# ============================================
+# 【3. 预测数据配置】
+# ============================================
+
+pred_dir: inference_output/job1133953_few_best/test
+# 预测文件所在的目录（推理脚本输出目录）
+# 里面应该包含 *_pred.npy 文件
+
+pred_glob: "*_pred.npy"
+# 从 pred_dir 中匹配哪些文件
+# *.npy 匹配所有 NPY 文件
+# *_pred.npy 匹配所有以 _pred.npy 结尾的文件
+# *_no_text_pred.npy 只匹配无文本的版本
+
+pred_index_regex: sample_(\d+)
+# 用正则表达式从预测文件名中提取样本索引
+# 例如：sample_0_pred.npy → 提取 0
+# 例如：sample_123_no_text_pred.npy → 提取 123
+# (\d+) 是捕获组，必须有括号
+
+name_filter: no_text
+# 文件名过滤器（可选，为空时不过滤）
+# 只处理文件名包含这个字符串的文件
+# 例如：no_text → 只处理含有 "no_text" 的文件
+# 例如：with_text → 只处理含有 "with_text" 的文件
+# 用途：同一目录中有多个版本时（e.g., with_dims vs no_dims）
+
+max_samples: 0
+# 最多处理多少个样本（0 = 无限制，处理全部）
+# 用于快速测试，例如：max_samples: 10 只评估前 10 个样本
+
+channel_index: 1
+# 从 GT NPY 的第几个通道提取语义标签
+# GT NPY 通常 shape 是 (N, 2, H, W)
+#   - channel_index = 0 → 房间类型 (0-15)
+#   - channel_index = 1 → 语义标签 (0-54) ← 这是我们要的
+
+# ============================================
+# 【4. 类别和颜色映射】
+# ============================================
+
+id2c_path: my_tools/id2c.json
+# ID → 类别名称 的映射文件
+# 格式：{"0": "void", "1": "floor", "2": "kids_bed", ...}
+# 用途：把数字标签 0,1,2... 转换为原文
+
+c2rgb_path: my_tools/c2rgb.json
+# 类别名 → RGB 颜色 的映射文件
+# 格式：{"void": [255, 255, 255], "floor": [200, 200, 200], ...}
+# 用途：渲染可视化图像，每个类别都有固定颜色
+
+# ============================================
+# 【5. 指标计算】
+# ============================================
+
+ignore_label_names:
+  - void        # 背景（无地板区域）
+  - floor       # 地面
+  - door        # 门
+  - window      # 窗户
+# 评估时忽略这些类别
+# ✅ 理由：我们只关心家具的预测质量，不关心背景
+# 如果不忽略，背景类通常 IoU 很高但评估意义不大
+
+metrics:
+  - iou         # 像素级 IoU（拍照质量）
+  - oob_2d      # 越界和遮挡检测（布局合理性）
+  - count_2d    # 家具实例计数准确性
+  - oar_2d      # 对象空间关系准确性（靠墙、靠门等）
+  - nav_2d      # 可导航比例（行人能否通行）
+  - fid_kid     # Fréchet Inception Distance（需要训练集）⚠️
+  - sca         # Scene Classification Accuracy（需要训练集）⚠️
+  - ckl         # 语义类别 KL 散度（分布一致性）
+# ⚠️ 注意：fid_kid 和 sca 需要加载整个 GT 训练集，耗时较长
+# 快速评估建议只用：[iou, count_2d, oar_2d, nav_2d, oob_2d, ckl]
+
+min_instance_pixels: 4
+# 实例的最小像素数（连通域大小）
+# 低于这个值的连通分量会被忽略（可能是噪声）
+# 例如：一个孤立的 3 像素点不算家具实例
+
+# ============================================
+# 【6. 指标参数 - Count-2D】
+# ============================================
+
+count_2d:
+  connectivity: 8
+  # 连通性模式：8 = 8-邻域（包括对角线），4 = 4-邻域（十字形）
+  # 8 通常用于评估家具距离，更灵活
+
+# ============================================
+# 【7. 指标参数 - OAR-2D（对象空间关系）】
+# ============================================
+
+oar_2d:
+  connectivity: 8
+  # 同上
+  
+  wall_band_pixels: 3
+  # 靠墙判断：距离房间边界多少像素以内算"靠墙"
+  # 3 像素 ≈ 30cm（假设 1 px = 1 cm）
+  
+  near_opening_pixels: 6
+  # 靠门/窗判断：距离门窗中心多少像素以内算"靠近"
+  # 6 像素 ≈ 60cm
+  
+  middle_threshold_ratio: 0.18
+  # 房间中央判断：该家具到房间中心的距离 < 房间对角线长度的 18% 时判定为"在中央"
+  
+  supported_relations:
+    - against_wall      # 靠墙
+    - near_door         # 靠近门
+    - near_window       # 靠近窗户
+    - middle_of_room    # 房间中央
+  # 评估这些空间关系是否正确
+
+# ============================================
+# 【8. 指标参数 - NAV-2D（可导航性）】
+# ============================================
+
+nav_2d:
+  connectivity: 8
+  # 连通性模式
+
+# ============================================
+# 【9. 指标参数 - FID/KID（需要训练集） ⚠️】
+# ============================================
+
+fid:
+  device: null
+  # GPU 设备：null = 自动选择，"cuda:0" = GPU 0，"cpu" = CPU
+  
+  num_iterations: 10
+  # FID 计算迭代次数（多次运行取平均，减少噪声）
+  
+  temp_dir_base: null
+  # 临时文件目录（计算中间结果缓存）
+
+# ============================================
+# 【10. 指标参数 - SCA（需要训练集） ⚠️】
+# ============================================
+
+sca:
+  batch_size: 256
+  # 分类器训练批大小
+  
+  num_workers: 0
+  # 数据加载线程数（0 = 不使用多线程）
+  
+  epochs: 10
+  # 分类器训练轮数
+  
+  device: null
+  # GPU 设备选择
+
+# ============================================
+# 【使用建议】
+# ============================================
+# 
+# 快速评估（2-3 分钟）：
+#   metrics: [iou, count_2d, oar_2d, nav_2d, oob_2d, ckl]
+#
+# 完整评估（10-15 分钟）：
+#   metrics: [iou, oob_2d, count_2d, oar_2d, nav_2d, fid_kid, sca, ckl]
+#
+# 只看家具质量：
+#   ignore_label_names: [void, floor, door, window]
+#   metrics: [iou, count_2d]
